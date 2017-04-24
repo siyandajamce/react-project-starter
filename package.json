@@ -1,14 +1,14 @@
 {
-  "name": "hello-react",
+  "name": "hello-react-router",
   "version": "1.0.0",
-  "description": "Sample react project",
+  "description": "Sample react router project",
   "main": "index.js",
   "scripts": {
     "start": "babel-node tools/server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://lamyfarai@bitbucket.org/lamyfarai/hello-react.git"
+    "url": "git+https://siyandajamce@bitbucket.org/siyandajamce/hello-react-router.git"
   },
   "keywords": [
     "react",
@@ -16,9 +16,9 @@
     "html",
     "css"
   ],
-  "author": "Lameck Farai Matare",
+  "author": "Siyanda Jamce",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/lamyfarai/hello-react#readme",
+  "homepage": "git+https://siyandajamce@bitbucket.org/siyandajamce/hello-react-router.git#readme",
   "dependencies": {
     "babel-polyfill": "^6.16.0",
     "bcryptjs": "^2.4.0",

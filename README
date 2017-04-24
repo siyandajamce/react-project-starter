@@ -1,0 +1,32 @@
+/*********************************
+********PROJECT SETUP*************
+*********************************/
+1. Clone the react-project-starter
+> git clone <projectStarterURL>
+e.g projectStarterURL = https://github.com/siyandajamce/react-project-starter.git
+
+2. Rename the react-project-starter to <your-project-name>
+e.g hello-react-router
+
+3. Rename package.json to relevant names
+
+4. Navigate to your project folder from the terminal
+> cd <your-project-name>
+
+5. Install node_module
+> npm install
+
+6. Change the public/index.html <title> ONLY!!!
+
+7. Commit these changes and push to github
+> git add .
+> git commit -m "Initial project setup!"
+> git push origin master
+
+7. Start the app!!!
+> npm start
+HAPPY CODING xoxo
+
+/*********************************
+********GETTING STARTED***********
+*********************************/
