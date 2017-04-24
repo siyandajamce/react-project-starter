@@ -19,11 +19,15 @@ e.g hello-react-router
 6. Change the public/index.html <title> ONLY!!!
 
 7. Commit these changes and push to github
+*You can start the app just to make sure all is well before committing and pushing
 > git add .
 > git commit -m "Initial project setup!"
 > git push origin master
 
-7. Start the app!!!
+8. NEVER WORK ON master branch. Create new branch after initial project setup.
+> git checkout -b setting_up_react
+
+9. Start the app!!!
 > npm start
 HAPPY CODING xoxo
 
