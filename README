@@ -34,3 +34,9 @@ HAPPY CODING xoxo
 /*********************************
 ********GETTING STARTED***********
 *********************************/
+1. import React, ReactDOM and render an <h1>Hello react router</h1>
+
+import React from "react"
+import ReactDOM, { render } from "react-dom"
+
+render(<h1>Hello react router</h1>, document.getElementById("root"))
